@@ -1,0 +1,33 @@
+/************************************************/
+
+A project dedicated to me learning NodeJS 
+w/ Express, building a REST API for an SPA and a 
+bunch of other random functionality that may or 
+may not be necessary in prod, but this is all about 
+that sweet portfolio cred baby!
+
+I'm using Google App Engine for host, so some of
+this will be AppEngine-centric, but really I have
+tried to keep it as modular as possible so that 
+we can host it wherever and just swap out the 
+login widget being served.
+
+The design is simple, serve up a static template
+with handlebars.js that contains a login widget.
+POST that back and serve up an app of choice i.e.
+React, Polymer, Angular, Vue etc... 
+
+I have a submodule in app/app-react that is a 
+React app. 
+
+For my next trick I'll fork this repo and implement
+a GraphQL API on the BE and use WebComponents on 
+the FE. I'll probably do that when I start adding
+too much functionality for a sane REST API. 
+
+I would love some feedback on infosec and ways 
+that I can improve in general... 
+
+hmu on twitter: @bitshiftnetau
+
+/************************************************/
