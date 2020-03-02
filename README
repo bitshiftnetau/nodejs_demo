@@ -21,8 +21,10 @@ I have a submodule in app/app-react that is a
 React app. 
 
 For my next trick I'll fork this repo and implement
-a GraphQL API on the BE and use WebComponents on 
-the FE. I'll probably do that when I start adding
+a GraphQL API on the BE and add an app that uses 
+WebComponents on the FE. 
+
+I'll probably fork to GraphQL when I start adding
 too much functionality for a sane REST API. 
 
 I would love some feedback on infosec and ways 
